@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37219" started-at="2019-05-22T06:07:08Z" finished-at="2019-05-22T06:07:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37219" started-at="2019-05-22T06:07:08Z" finished-at="2019-05-22T06:07:45Z">
+      <class name="com.fig4u.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="5851" started-at="2019-05-22T11:37:08Z" finished-at="2019-05-22T11:37:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="verifyHomePageTitleTest" duration-ms="9" started-at="2019-05-22T11:37:14Z" finished-at="2019-05-22T11:37:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="1156" started-at="2019-05-22T11:37:14Z" finished-at="2019-05-22T11:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="5904" started-at="2019-05-22T11:37:15Z" finished-at="2019-05-22T11:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserNameTest()[pri:2, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="verifyUserNameTest" duration-ms="337" started-at="2019-05-22T11:37:21Z" finished-at="2019-05-22T11:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="1188" started-at="2019-05-22T11:37:21Z" finished-at="2019-05-22T11:37:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="5302" started-at="2019-05-22T11:37:22Z" finished-at="2019-05-22T11:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyWidNoLinkTest()[pri:3, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="verifyWidNoLinkTest" duration-ms="2266" started-at="2019-05-22T11:37:28Z" finished-at="2019-05-22T11:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWidNoLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="967" started-at="2019-05-22T11:37:30Z" finished-at="2019-05-22T11:37:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="5194" started-at="2019-05-22T11:37:31Z" finished-at="2019-05-22T11:37:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="windowPop()[pri:4, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="windowPop" duration-ms="690" started-at="2019-05-22T11:37:36Z" depends-on-methods="com.fig4u.qa.testcases.HomePageTest.verifyWidNoLinkTest" finished-at="2019-05-22T11:37:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowPop -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="1016" started-at="2019-05-22T11:37:37Z" finished-at="2019-05-22T11:37:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="5323" started-at="2019-05-22T11:37:38Z" finished-at="2019-05-22T11:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchWIDTest()[pri:5, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="searchWIDTest" duration-ms="967" started-at="2019-05-22T11:37:43Z" depends-on-methods="com.fig4u.qa.testcases.HomePageTest.windowPop" finished-at="2019-05-22T11:37:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWIDTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fig4u.qa.testcases.HomePageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="1017" started-at="2019-05-22T11:37:44Z" finished-at="2019-05-22T11:37:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fig4u.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
